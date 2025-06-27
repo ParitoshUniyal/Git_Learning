@@ -1,3 +1,3 @@
-const value = 10;
+const value = 20;
 console.log(value);
 console.log("Namaste Dunia");
